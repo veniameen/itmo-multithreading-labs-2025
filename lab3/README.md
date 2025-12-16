@@ -1,7 +1,7 @@
 # Лаба 3 — Шедулер, часть 2 (минимальный вариант)
 
 <video width="100%" controls>
-  <source src="./lab3.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab3/lab3.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 

@@ -1,7 +1,7 @@
 # Лабораторная работа 1 — Шедулер, часть 1 (JavaScript)
 
 <video width="100%" controls>
-  <source src="./lab1.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab1/lab1.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
