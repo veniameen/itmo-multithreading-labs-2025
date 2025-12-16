@@ -1,9 +1,6 @@
 # Лабораторная работа 1 — Шедулер, часть 1 (JavaScript)
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab1/lab1.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео lab1.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/lab1/lab1.mp4)
 
 ## Цель работы
 Реализовать простую модель управления процессами:

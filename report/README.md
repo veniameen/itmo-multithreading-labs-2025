@@ -1,9 +1,6 @@
 # Доклад: Многопоточность и конкурентность в JavaScript (Node.js)
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/report/Доклад.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео report.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/report/report.mp4)
 
 ## Введение
 В JavaScript основная логика программы исполняется в одном потоке. Поэтому “классическая” многопоточность (как в C++/Java) в базовой модели отсутствует. При этом язык и платформа дают удобные механизмы конкурентности (асинхронного выполнения), а при необходимости — и реальный параллелизм через воркеры.

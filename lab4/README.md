@@ -1,9 +1,6 @@
 # Лабораторная работа 4 — Параллельная обработка изображений (Node.js)
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab4/lab4.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео lab4.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/lab4/lab4.mp4)
 
 Цель: превратить "белое" изображение (RGB=255,255,255) в "шахматное" (черный/белый пиксель по (row+col)%2),
 сначала **в одном потоке**, затем **параллельно** (Worker Threads) и сравнить время.

@@ -2,10 +2,7 @@
 
 ## Задача 1 — Race condition
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task1_race.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео lab2_task1_race.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task1_race.mp4)
 
 Идея: несколько потоков увеличивают **общий счётчик** в `SharedArrayBuffer`, но делают это **не атомарно**
 (`x = x + 1`), из-за чего часть инкрементов теряется.
@@ -48,10 +45,7 @@ if (isMainThread) {
 
 ## Задача 2 — Deadlock
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task2_deadlock.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео lab2_task2_deadlock.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task2_deadlock.mp4)
 
 Идея: два потока берут “замки” в разном порядке:
 
@@ -102,10 +96,7 @@ if (isMainThread) {
 
 ## Задача 3 — Worker Pool
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task3_worker_pool.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео lab2_task3_worker_pool.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task3_worker_pool.mp4)
 
 Идея: есть очередь задач. Несколько воркеров берут задачи по мере освобождения.
 “Первый свободный” = тот, кто прислал сообщение `ready`.
@@ -175,10 +166,7 @@ node task3_worker_pool.js
 
 ## Задача 4 — Конвейер (Pipeline)
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task4_pipeline.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео lab2_task4_pipeline.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task4_pipeline.mp4)
 
 Идея: одна задача проходит **последовательно** 3 стадии, но каждая стадия — отдельный поток:
 Stage1 → Stage2 → Stage3.
@@ -234,10 +222,7 @@ if (isMainThread) {
 
 ## Задача 5 — Fan-in / Fan-out
 
-<video width="100%" controls>
-  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task5_fanin_fanout.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
+[▶️ Открыть видео lab2_task5_fanin_fanout.mp4](https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task5_fanin_fanout.mp4)
 
 Идея: делим задачу на независимые куски (fan-out), считаем параллельно, затем объединяем (fan-in).
 Пример: сумма чисел от 0 до 100, разбиваем на несколько диапазонов.
