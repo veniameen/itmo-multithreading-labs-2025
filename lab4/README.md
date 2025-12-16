@@ -1,7 +1,7 @@
 # Лабораторная работа 4 — Параллельная обработка изображений (Node.js)
 
 <video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab4/lab4.mp4" type="video/mp4">
+  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab4/lab4.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 

@@ -3,7 +3,7 @@
 ## Задача 1 — Race condition
 
 <video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab2/lab2_task1_race.mp4" type="video/mp4">
+  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task1_race.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
@@ -49,7 +49,7 @@ if (isMainThread) {
 ## Задача 2 — Deadlock
 
 <video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab2/lab2_task2_deadlock.mp4" type="video/mp4">
+  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task2_deadlock.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
@@ -103,7 +103,7 @@ if (isMainThread) {
 ## Задача 3 — Worker Pool
 
 <video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab2/lab2_task3_worker_pool.mp4" type="video/mp4">
+  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task3_worker_pool.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
@@ -176,7 +176,7 @@ node task3_worker_pool.js
 ## Задача 4 — Конвейер (Pipeline)
 
 <video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab2/lab2_task4_pipeline.mp4" type="video/mp4">
+  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task4_pipeline.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
@@ -235,7 +235,7 @@ if (isMainThread) {
 ## Задача 5 — Fan-in / Fan-out
 
 <video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/veniameen/itmo-multithreading-labs-2025/main/lab2/lab2_task5_fanin_fanout.mp4" type="video/mp4">
+  <source src="https://veniameen.github.io/itmo-multithreading-labs-2025/lab2/lab2_task5_fanin_fanout.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
